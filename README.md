@@ -55,8 +55,8 @@ Key features:
  
 ## 📫 Connect With Me
  
-- LinkedIn: www.linkedin.com/in/axel-saizonou
-- GitHub: https://github.com/TON-USERNAME
+- LinkedIn: 
+- GitHub: 
  
 ---
  
