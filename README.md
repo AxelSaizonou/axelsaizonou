@@ -42,43 +42,6 @@ Key features:
  
 ---
  
-### ⚽ Football Analytics Pipeline
- 
-Automated football scouting analytics project.
- 
-Features:
- 
-- API data extraction
-- Data cleaning & transformation
-- PostgreSQL database
-- Player similarity scoring
-- Advanced scouting metrics
-- Interactive analytics dashboards
- 
-**Tech stack**
- 
-`Python` • `PostgreSQL` • `Power BI` • `Analytics`
- 
----
- 
-### 💼 JobScout
- 
-AI-powered job-search assistant.
- 
-Features:
- 
-- Multi-platform job scanning
-- Offer scoring
-- CV analysis
-- AI-generated cover letters
-- Application tracking
- 
-**Tech stack**
- 
-`React` • `Next.js` • `TypeScript` • `SQLite` • `AI`
- 
----
- 
 ## 🎯 Current Learning Goals
  
 - Industrial Data Engineering
