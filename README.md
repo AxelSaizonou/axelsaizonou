@@ -24,7 +24,6 @@ My focus areas include:
 Decision-support platform developed for a plastic recycling company.
  
 Key features:
- 
 - Raw material market analysis
 - Web scraping of supplier data
 - Cost optimization support
@@ -55,8 +54,7 @@ Key features:
  
 ## 📫 Connect With Me
  
-- LinkedIn: 
-- GitHub: 
+- LinkedIn: in/axel-s-21bb92b8
  
 ---
  
