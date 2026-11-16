@@ -36,7 +36,6 @@ Key features:
 - Management
 - CFO
 
-
  
 **Tech stack**
  
