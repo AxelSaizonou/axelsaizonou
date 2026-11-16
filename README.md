@@ -4,6 +4,7 @@
  
 I transform raw industrial and business data into actionable insights and decision-support tools.
  
+
 My focus areas include:
  
 - 📊 Data Analytics & Business Intelligence
@@ -34,7 +35,9 @@ Key features:
 - Engineers
 - Management
 - CFO
- 
+
+
+ 
 **Tech stack**
  
 `Python` • `Power BI` • `Excel` • `Web Scraping` • `Data Analysis`
